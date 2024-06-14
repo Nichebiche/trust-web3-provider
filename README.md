@@ -1,4 +1,4 @@
-# TrustWeb3Provider
+# TrustWeb3Providernichebiche
 
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/trustwallet/trust-web3-provider)
 [![License](https://img.shields.io/cocoapods/l/TrustWeb3Provider.svg?style=flat)](http://cocoapods.org/pods/TrustWeb3Provider)
